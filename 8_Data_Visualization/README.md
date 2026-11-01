@@ -69,3 +69,7 @@ python draw_fig_nonix-ix.py
 ![Non-IX 조건별 비교](./img/NonIX.png)
 ![IX 조건별 비교](./img/IX.png)
 ![Non-IX vs. IX](./img/NonIX-IX.png)
+
+<img src="./img/NonIX.png" width="600"/>
+<img src="./img/IX.png" width="600"/>
+<img src="./img/NonIX-IX.png" width="600"/>
